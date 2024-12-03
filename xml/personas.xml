@@ -1,0 +1,14 @@
+<personas>
+    <persona>
+        <ID>1</ID>
+        <nombre>Marta</nombre>
+    </persona>
+    <persona>
+        <ID>2</ID>
+        <nombre>Luisa</nombre>
+    </persona>
+    <persona>
+        <ID>3</ID>
+        <nombre>Marcos</nombre>
+    </persona>
+</personas>
