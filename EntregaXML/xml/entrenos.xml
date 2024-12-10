@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <entrenos>
-    <entrno id="2">
+    <entreno id="2">
         <nombre>HIIT Avanzado</nombre>
         <duracion>40</duracion>
         <nivel>Duro</nivel>
-    </entrno>
+    </entreno>
     <entreno id="3">
         <nombre>Yoga</nombre>
         <duracion>45</duracion>

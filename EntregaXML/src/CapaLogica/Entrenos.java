@@ -1,13 +1,15 @@
 package CapaLogica;
 
 public class Entrenos {
+    private int id;
     private String nombre;
     private int duracion;
     private String nivel;
 
     public Entrenos(){
     }
-    public Entrenos(String nombre, int duracion, String nivel) {
+    public Entrenos(int id, String nombre, int duracion, String nivel) {
+        this.id = id;
         this.nombre = nombre;
         this.duracion = duracion;
         this.nivel = nivel;
