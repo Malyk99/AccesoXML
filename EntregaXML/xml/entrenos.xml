@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entrenos>
+    <entrno id="2">
+        <nombre>HIIT Avanzado</nombre>
+        <duracion>40</duracion>
+        <nivel>Duro</nivel>
+    </entrno>
+    <entreno id="3">
+        <nombre>Yoga</nombre>
+        <duracion>45</duracion>
+        <nivel>Fácil</nivel>
+    </entreno>
+    <entreno id="4">
+        <nombre>Pilates</nombre>
+        <duracion>50</duracion>
+        <nivel>Intermedio</nivel>
+    </entreno>
+    <entreno id="5">
+        <nombre>Pilates</nombre>
+        <duracion>50</duracion>
+        <nivel>Intermedio</nivel>
+    </entreno>
+</entrenos>
